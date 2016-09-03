@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paraguayan Progress Reports</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Paraguayan Progress Reports</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Colin Brayton</copyright>
+    <lastBuildDate>Sat, 03 Sep 2016 15:53:52 -0300</lastBuildDate>
+    <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Logo no Começo</title>
+      <link>http://example.com/2016/09/03/logo-no-comeco/</link>
+      <pubDate>Sat, 03 Sep 2016 15:53:52 -0300</pubDate>
+      
+      <guid>http://example.com/2016/09/03/logo-no-comeco/</guid>
+      <description>&lt;p&gt;Vamos concordar logo no começo: nesse espaço so fala-se Português do Brasil. Pode ser que esse tipo de nacionalismo linguístico seja coisa de comunista &amp;ndash; o ministro Aldo Rebelo falava muito sobre isso no passado &amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;Estou precisando da prática ainda, aliás, mas não consigo mais aturar meu antigo blog, O Bicho-Preguiça.&lt;/p&gt;
+
+&lt;p&gt;Quanto aos assuntos, podem ser qualquer coisa.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
