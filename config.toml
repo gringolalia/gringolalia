@@ -1,0 +1,51 @@
+baseurl = "http://example.com/"
+title = "Paraguayan Progress Reports"
+theme = "ghostwriter"
+languageCode = "pt-br"
+copyright = "Colin Brayton"
+# googleAnalytics = "XXX"
+# disqusShortname = "XXX"
+
+[Author]
+    name = "Colin Brayton"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Desordem É Progresso"
+    description = "Lasciate ogni speranza voi ch'entrate"
+    github = "https://github.com/gringolalia"
+    linkedin = "https://linkedin.com/in/bretonio/"
+    twitter = "https://twitter.com/ColinBrayton"
+    stackoverflow = "http://stackoverflow.com/users/6753247/colin-brayton"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Bitácora"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projetos"
+    url = "/projetos/"
+    weight = 2
+
+[[menu.main]]
+  name = "Fontes"
+  url = "/page/fontes/"
+  weight = 3
+
+[[menu.main]]
+    name = "Contate-me"
+    url = "/page/contate/"
+    weight = 4
+
+[[menu.main]]
+    name = "Sobre Mim"
+    url = "/page/sobre/"
+    weight = 5
