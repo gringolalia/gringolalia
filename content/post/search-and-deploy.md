@@ -2,7 +2,7 @@
 author = "Colin Brayton"
 date = "2016-09-03T19:39:29-03:00"
 description = "Deploying Hugo on Github: A Massive PITA"
-tags = ["it", "thou", "bees" ]
+tags = ["GitHub", "static site generator", "hugo" ]
 title = "Search and Deploy"
 
 +++

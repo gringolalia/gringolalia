@@ -1,4 +1,4 @@
-baseurl = "http://example.com/"
+baseurl = "/"
 title = "Paraguayan Progress Reports"
 theme = "ghostwriter"
 languageCode = "pt-br"
